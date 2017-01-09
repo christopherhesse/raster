@@ -1,0 +1,32 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/go-gl/gl/v4.1-core/gl",
+			"repository": "https://github.com/go-gl/gl",
+			"vcs": "git",
+			"revision": "b303bcb3e83b7ef645a5104e1c2db7f8d9e8918a",
+			"branch": "master",
+			"path": "/v4.1-core/gl",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/go-gl/glfw/v3.1/glfw",
+			"repository": "https://github.com/go-gl/glfw",
+			"vcs": "git",
+			"revision": "6e7202f2d691ed1d79bcdaed6cce0061006ce565",
+			"branch": "master",
+			"path": "/v3.1/glfw",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/go-gl/glfw/v3.2/glfw",
+			"repository": "https://github.com/go-gl/glfw",
+			"vcs": "git",
+			"revision": "6e7202f2d691ed1d79bcdaed6cce0061006ce565",
+			"branch": "master",
+			"path": "/v3.2/glfw",
+			"notests": true
+		}
+	]
+}
